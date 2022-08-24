@@ -1,0 +1,52 @@
+program
+procedure
+repeat
+function
+
+IrAlBorde
+VolverAtras
+
+PARAMETRO: (color)(direccion)(cantidad)
+expresiones: azul, rojo, verde, 23, 4, 100, etc.
+
+FUNCIONES: (opuesto(direccion))
+(siguiente(direccion))
+(previo(direccion))
+(4 div 2)
+opuesto(Norte), siguiente(Norte) y previo(Norte)
+
+
+CONDICIONALES: if=si     not=no   else=sino
+
+BOLEANO: Verdadero o Falso 
+&&= Toma dos expresiones booleanas y devuelve "True" si TODAS son verdareras.
+||=Retorna "True" si ALGUNA es verdadera.
+
+__________________________________Negación: "da vuelta" una expresión booleana - ejemplo: not hayBolitas(Rojo).
+Conjunción: determina si se cumplen ambas condiciones - ejemplo: puedeMover(Norte) && puedeMover(Sur).
+Disyunción: determina si se cumple alguna de las condiciones - ejemplo: esInteligente() || tieneBuenaOnda
+__________________________________
+
+JAVASCRIP
+Math.round: redondear un nùmero.
+Math.max: tope inferior.
+Math.min: tope superior.
+
+!=no ejemplo: !hayComida.
+&&=y ejemplo: hayComida && hayBebida.
+||=o ejemplo: unaExpresion || otraExpresion.
+
+strings "texto" 
+
+===: nos dice si dos cosas son iguales
+!==: nos dice si dos cosas son diferentes
+
+
+
+VARIABLES
+let primerMes = "enero"
+
+
+
+
+
